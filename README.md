@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working in Android App development. Current dev stack ( kotlin, java, xlm )
+I am currently working in Android App development. Current dev stack ( kotlin, java, xlm, Golang )
 
 
 ## 🌐 Socials:
